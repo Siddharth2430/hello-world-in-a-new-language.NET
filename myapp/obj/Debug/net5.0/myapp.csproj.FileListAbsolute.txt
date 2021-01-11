@@ -1,0 +1,16 @@
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\myapp.exe
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\myapp.deps.json
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\myapp.runtimeconfig.json
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\myapp.runtimeconfig.dev.json
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\myapp.dll
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\ref\myapp.dll
+C:\Users\SIDDHARTH\myapp\bin\Debug\net5.0\myapp.pdb
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.csprojAssemblyReference.cache
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.AssemblyInfoInputs.cache
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.AssemblyInfo.cs
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.dll
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\ref\myapp.dll
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.pdb
+C:\Users\SIDDHARTH\myapp\obj\Debug\net5.0\myapp.genruntimeconfig.cache
